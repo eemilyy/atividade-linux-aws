@@ -58,7 +58,6 @@ Um grupo de segurança atua como firewall virtual para as instâncias do EC2 vis
 
 Depois de ter realizado todos os pré requisitos, devemos começar com a criação da instancia EC2 da AWS. Dentro da plataforma AWS, pesquise pelo serviço EC2.
 
-</br>
 
 ## Especificações da máquina
 
